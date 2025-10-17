@@ -1,3 +1,8 @@
 <template>
-    <div class="bg-red-300">Hello from index</div>
+    <!-- <header></header>
+    <main class="h-screen bg-red-300">
+        Not Pokemon
+    </main>
+    <footer></footer> -->
+    <Combat></Combat>
 </template>
